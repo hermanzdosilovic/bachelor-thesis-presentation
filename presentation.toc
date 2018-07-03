@@ -1,0 +1,16 @@
+\babel@toc {croatian}{}
+\beamer@sectionintoc {1}{Uvod}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Opti\IeC {\v c}ko raspoznavanje znakova}{3}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{Primjene opti\IeC {\v c}kog raspoznavanja znakova}{4}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{2}{Komponente sustava za opti\IeC {\v c}ko raspoznavanje znakova}{6}{0}{1}
+\beamer@sectionintoc {2}{Odre\IeC {\dj }ivanje strukture teksta na temelju polo\IeC {\v z}aja pojedinih znakova}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{\IeC {\v Z}eljena funkcionalnost}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Suradnja s OCR-sustavom}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Skup podataka za ispitivanje}{9}{0}{2}
+\beamer@subsectionintoc {2}{4}{Kori\IeC {\v s}tenje skupa podataka za ispitivanje}{13}{0}{2}
+\beamer@sectionintoc {3}{Algoritmi za odre\IeC {\dj }ivanje strukture teksta}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Algoritmi za odre\IeC {\dj }ivanje linija}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Algoritmi za rastavljanje rije\IeC {\v c}i}{13}{0}{3}
+\beamer@sectionintoc {4}{Mjere to\IeC {\v c}nosti algoritama}{13}{0}{4}
+\beamer@sectionintoc {5}{Rezultati}{13}{0}{5}
+\beamer@sectionintoc {6}{Zaklju\IeC {\v c}ak}{13}{0}{6}
