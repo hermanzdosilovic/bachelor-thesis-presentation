@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  4 JUL 2018 02:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.17)  4 JUL 2018 03:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -929,7 +929,7 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 49.
 
-<images/mobile-ocr.jpg, id=160, 772.8875pt x 434.62375pt>
+<images/mobile-ocr.jpg, id=163, 772.8875pt x 434.62375pt>
 File: images/mobile-ocr.jpg Graphic file (type jpg)
 <use images/mobile-ocr.jpg>
 Package pdftex.def Info: images/mobile-ocr.jpg  used on input line 62.
@@ -963,7 +963,7 @@ Package pdftex.def Info: images/logo.png  used on input line 85.
  [4
 
 ]
-<images/receipt-example-01.png, id=219, 1371.1225pt x 630.355pt>
+<images/receipt-example-01.png, id=222, 1371.1225pt x 630.355pt>
 File: images/receipt-example-01.png Graphic file (type png)
 <use images/receipt-example-01.png>
 Package pdftex.def Info: images/receipt-example-01.png  used on input line 96.
@@ -987,7 +987,7 @@ Package pdftex.def Info: images/logo.png  used on input line 111.
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\dj' on input line 113.
 
-<images/text-segmentation-01.jpg, id=275, 3902.58pt x 898.35625pt>
+<images/text-segmentation-01.jpg, id=278, 3902.58pt x 898.35625pt>
 File: images/text-segmentation-01.jpg Graphic file (type jpg)
 <use images/text-segmentation-01.jpg>
 Package pdftex.def Info: images/text-segmentation-01.jpg  used on input line 12
@@ -1000,7 +1000,7 @@ Package pdftex.def Info: images/logo.png  used on input line 124.
 [7
 
  <./images/text-segmentation-01.jpg>]
-<images/sustav-01.png, id=304, 3135.715pt x 325.215pt>
+<images/sustav-01.png, id=307, 3135.715pt x 325.215pt>
 File: images/sustav-01.png Graphic file (type png)
 <use images/sustav-01.png>
 Package pdftex.def Info: images/sustav-01.png  used on input line 136.
@@ -1019,7 +1019,7 @@ Package pdftex.def Info: images/logo.png  used on input line 148.
  [9
 
 ]
-<images/book-example-03.jpg, id=359, 4239.84pt x 1180.41pt>
+<images/book-example-03.jpg, id=362, 4239.84pt x 1180.41pt>
 File: images/book-example-03.jpg Graphic file (type jpg)
 <use images/book-example-03.jpg>
 Package pdftex.def Info: images/book-example-03.jpg  used on input line 163.
@@ -1032,7 +1032,7 @@ Package pdftex.def Info: images/logo.png  used on input line 163.
 [10
 
  <./images/book-example-03.jpg>]
-<images/receipt-example-04.jpg, id=388, 536.0025pt x 493.845pt>
+<images/receipt-example-04.jpg, id=391, 536.0025pt x 493.845pt>
 File: images/receipt-example-04.jpg Graphic file (type jpg)
 <use images/receipt-example-04.jpg>
 Package pdftex.def Info: images/receipt-example-04.jpg  used on input line 173.
@@ -1049,7 +1049,7 @@ Package pdftex.def Info: images/logo.png  used on input line 173.
 [11
 
  <./images/receipt-example-04.jpg>]
-<images/book-example-04.png, id=416, 1528.71124pt x 664.4825pt>
+<images/book-example-04.png, id=419, 1528.71124pt x 664.4825pt>
 File: images/book-example-04.png Graphic file (type png)
 <use images/book-example-04.png>
 Package pdftex.def Info: images/book-example-04.png  used on input line 183.
@@ -1091,7 +1091,7 @@ Package pdftex.def Info: images/logo.png  used on input line 223.
  [14
 
 ]
-<images/sustav-02.png, id=502, 2573.615pt x 405.515pt>
+<images/sustav-02.png, id=505, 2573.615pt x 405.515pt>
 File: images/sustav-02.png Graphic file (type png)
 <use images/sustav-02.png>
 Package pdftex.def Info: images/sustav-02.png  used on input line 236.
@@ -1120,7 +1120,7 @@ Package pdftex.def Info: images/logo.png  used on input line 257.
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\dj' on input line 259.
 
-<images/sustav-03.png, id=557, 1812.7725pt x 427.5975pt>
+<images/sustav-03.png, id=560, 1812.7725pt x 427.5975pt>
 File: images/sustav-03.png Graphic file (type png)
 <use images/sustav-03.png>
 Package pdftex.def Info: images/sustav-03.png  used on input line 269.
@@ -1136,7 +1136,7 @@ Package pdftex.def Info: images/logo.png  used on input line 269.
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\dj' on input line 271.
 
-<images/line-segmentation-01.jpg, id=586, 3735.9575pt x 776.9025pt>
+<images/line-segmentation-01.jpg, id=589, 3735.9575pt x 776.9025pt>
 File: images/line-segmentation-01.jpg Graphic file (type jpg)
 <use images/line-segmentation-01.jpg>
 Package pdftex.def Info: images/line-segmentation-01.jpg  used on input line 28
@@ -1149,7 +1149,7 @@ Package pdftex.def Info: images/logo.png  used on input line 281.
 [18
 
  <./images/line-segmentation-01.jpg>]
-<images/chars-01.png, id=616, 906.38625pt x 605.26125pt>
+<images/chars-01.png, id=619, 906.38625pt x 605.26125pt>
 File: images/chars-01.png Graphic file (type png)
 <use images/chars-01.png>
 Package pdftex.def Info: images/chars-01.png  used on input line 302.
@@ -1168,7 +1168,7 @@ Package pdftex.def Info: images/logo.png  used on input line 320.
  [20
 
 ]
-<images/aligner-01.png, id=677, 1660.2025pt x 472.76625pt>
+<images/aligner-01.png, id=680, 1660.2025pt x 472.76625pt>
 File: images/aligner-01.png Graphic file (type png)
 <use images/aligner-01.png>
 Package pdftex.def Info: images/aligner-01.png  used on input line 340.
@@ -1181,7 +1181,7 @@ Package pdftex.def Info: images/logo.png  used on input line 340.
 [21
 
  <./images/aligner-01.png>]
-<images/overlap-01.png, id=709, 1001.7425pt x 448.67625pt>
+<images/overlap-01.png, id=712, 1001.7425pt x 448.67625pt>
 File: images/overlap-01.png Graphic file (type png)
 <use images/overlap-01.png>
 Package pdftex.def Info: images/overlap-01.png  used on input line 360.
@@ -1193,7 +1193,7 @@ Package pdftex.def Info: images/logo.png  used on input line 360.
  [22
 
  <./images/overlap-01.png>]
-<images/overlap-02.png, id=741, 1924.18875pt x 341.275pt>
+<images/overlap-02.png, id=744, 1924.18875pt x 341.275pt>
 File: images/overlap-02.png Graphic file (type png)
 <use images/overlap-02.png>
 Package pdftex.def Info: images/overlap-02.png  used on input line 378.
@@ -1205,7 +1205,7 @@ Package pdftex.def Info: images/logo.png  used on input line 378.
  [23
 
  <./images/overlap-02.png>]
-<images/function-01.png, id=770, 702.37407pt x 435.87843pt>
+<images/function-01.png, id=773, 702.37407pt x 435.87843pt>
 File: images/function-01.png Graphic file (type png)
 <use images/function-01.png>
 Package pdftex.def Info: images/function-01.png  used on input line 388.
@@ -1229,7 +1229,7 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 412.
 
-<images/book-example-02.png, id=824, 855.195pt x 233.87375pt>
+<images/book-example-02.png, id=827, 855.195pt x 233.87375pt>
 File: images/book-example-02.png Graphic file (type png)
 <use images/book-example-02.png>
 Package pdftex.def Info: images/book-example-02.png  used on input line 433.
@@ -1255,7 +1255,7 @@ Package pdftex.def Info: images/logo.png  used on input line 462.
  [28
 
 ]
-<images/receipt-example-03.png, id=906, 669.50125pt x 826.08624pt>
+<images/receipt-example-03.png, id=909, 669.50125pt x 826.08624pt>
 File: images/receipt-example-03.png Graphic file (type png)
 <use images/receipt-example-03.png>
 Package pdftex.def Info: images/receipt-example-03.png  used on input line 472.
@@ -1305,17 +1305,149 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 546.
 
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 564.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+[34
+
+]
+<images/sustav-04.png, id=1075, 2573.615pt x 405.515pt>
+File: images/sustav-04.png Graphic file (type png)
+<use images/sustav-04.png>
+Package pdftex.def Info: images/sustav-04.png  used on input line 574.
+(pdftex.def)             Requested size: 342.2953pt x 53.93156pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 574.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [35
+
+ <./images/sustav-04.png>]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 590.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [36
+
+]
+<images/sustav-05.png, id=1131, 2573.615pt x 405.515pt>
+File: images/sustav-05.png Graphic file (type png)
+<use images/sustav-05.png>
+Package pdftex.def Info: images/sustav-05.png  used on input line 604.
+(pdftex.def)             Requested size: 342.2953pt x 53.93156pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 604.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [37
+
+ <./images/sustav-05.png>]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 620.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [38
+
+]
+<images/result-01.png, id=1189, 702.37407pt x 435.87843pt>
+File: images/result-01.png Graphic file (type png)
+<use images/result-01.png>
+Package pdftex.def Info: images/result-01.png  used on input line 632.
+(pdftex.def)             Requested size: 273.83728pt x 169.93869pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 632.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+
+[39
+
+ <./images/result-01.png (PNG copy)>]
+<images/result-02.png, id=1217, 702.37407pt x 435.87843pt>
+File: images/result-02.png Graphic file (type png)
+<use images/result-02.png>
+Package pdftex.def Info: images/result-02.png  used on input line 642.
+(pdftex.def)             Requested size: 273.83728pt x 169.93869pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 642.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [40
+
+ <./images/result-02.png (PNG copy)>]
+<images/error-01.png, id=1245, 1458.44875pt x 469.755pt>
+File: images/error-01.png Graphic file (type png)
+<use images/error-01.png>
+Package pdftex.def Info: images/error-01.png  used on input line 652.
+(pdftex.def)             Requested size: 342.2953pt x 110.24908pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 652.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [41
+
+ <./images/error-01.png>]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 681.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [42
+
+]
+<images/result-03.png, id=1303, 702.37407pt x 435.87843pt>
+File: images/result-03.png Graphic file (type png)
+<use images/result-03.png>
+Package pdftex.def Info: images/result-03.png  used on input line 694.
+(pdftex.def)             Requested size: 273.83728pt x 169.93869pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 694.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [43
+
+ <./images/result-03.png (PNG copy)>]
+<images/result-04.png, id=1332, 702.37407pt x 435.87843pt>
+File: images/result-04.png Graphic file (type png)
+<use images/result-04.png>
+Package pdftex.def Info: images/result-04.png  used on input line 706.
+(pdftex.def)             Requested size: 273.83728pt x 169.93869pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 706.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+
+[44
+
+ <./images/result-04.png (PNG copy)>]
+<images/error-02.png, id=1360, 1658.195pt x 424.58624pt>
+File: images/error-02.png Graphic file (type png)
+<use images/error-02.png>
+Package pdftex.def Info: images/error-02.png  used on input line 718.
+(pdftex.def)             Requested size: 342.2953pt x 87.64325pt.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 718.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [45
+
+ <./images/error-02.png>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 548.
+(hyperref)                removing `\textasciicaron' on input line 720.
 
-(./presentation.bbl)
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 554.
+Package pdftex.def Info: images/logo.png  used on input line 732.
 (pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
- [34
+[46
+
+] (./presentation.bbl)
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 739.
+(pdftex.def)             Requested size: 18.80739pt x 28.45274pt.
+ [47
 
 ]
 \tf@nav=\write6
@@ -1327,19 +1459,19 @@ Package pdftex.def Info: images/logo.png  used on input line 554.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 556.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 556.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 741.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 741.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 556.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 556.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 741.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 741.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 5720FD24710911F1E822A455DCD106AA;971.
+(rerunfilecheck)             Checksum: 9F764104FA7B724DE87D7DEFB294D92E;981.
  ) 
 Here is how much of TeX's memory you used:
- 20513 strings out of 492649
- 373190 string characters out of 6135778
- 472389 words of memory out of 5000000
- 23797 multiletter control sequences out of 15000+600000
+ 20629 strings out of 492649
+ 374883 string characters out of 6135778
+ 472935 words of memory out of 5000000
+ 23867 multiletter control sequences out of 15000+600000
  19859 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,72p,831b,1370s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1357,10 +1489,10 @@ are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist
 blic/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/s
 ymbols/msam7.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></us
 r/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on presentation.pdf (34 pages, 12026259 bytes).
+Output written on presentation.pdf (47 pages, 14327818 bytes).
 PDF statistics:
- 1148 PDF objects out of 1200 (max. 8388607)
- 1046 compressed objects within 11 object streams
- 112 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1529 PDF objects out of 1728 (max. 8388607)
+ 1399 compressed objects within 14 object streams
+ 150 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -75,7 +75,7 @@
     \begin{itemize}
         \item Prijava boravka u hotelima
     \end{itemize}
-    \item Registracija glasovanja na biralištima
+    \item Registracija glasača na biralištima
     \item Registracija posjetitelja na raznim događajima
     \item Granične kontrole
     \item Upravljanje financijama
@@ -544,8 +544,193 @@ d_c(A, B) > \overline{d_c}(l) \cdot c_2
 \end{frame}
 
 \section{Mjere točnosti algoritama}
-\section{Rezultati}
+\begin{frame}
+\frametitle{Mjere točnosti algoritama}
+\framesubtitle{Mjere točnosti algoritama za određivanje linija (1)}
+\begin{itemize}
+    \item Dobiveni OCR-rezultat s grupiranim linijama pretvara se u
+          tekstualnu datoteku koristeći algoritam prikazan u isječku
+          \ref{lst:ocr-result-to-txt}.
+    \item Sadržaj tekstualne datoteke uspoređuje se sa
+          sadržajem očekivane izlazne datoteke iz koje su izbačeni
+          znakovi bjeline.
+    \item Točnost, odnosno dobrota \engl{fitness} algoritama računa se
+          pomoću Levenshteinove udaljenosti između nizova znakova dviju datoteka:
+    \begin{equation}
+    \label{eq:fitness}
+    f(a, b) = 1 - \frac{d_{\textit{levenshtein}}(a, b)}{\max(|a|, |b|)}
+    \end{equation}
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Mjere točnosti algoritama}
+\framesubtitle{Mjere točnosti algoritama za određivanje linija (2)}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=\textwidth]{images/sustav-04.png}
+    \caption{Postupak dobivanja izlazne datoteke.}
+    \label{fig:sustav-04}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Mjere točnosti algoritama}
+\framesubtitle{Mjere točnosti algoritama za rastavljanje riječi (1)}
+\begin{itemize}
+    \item Ulaz u sustav za rastavljanje riječi je OCR-rezultat s grupiranim
+          linijama dobiven algoritmima za određivanje linija.
+    \item Dobiveni OCR-rezultat predstavlja strukturirani OCR-rezultat koji
+          je izlaz iz sustava za određivanje strukture teksta.
+    \item Strukturirani OCR-rezultat pretvara se u tekstualnu datoteku
+          koristeći algoritam prikazan u isječku \ref{lst:ocr-result-to-txt}.
+    \item Sadržaj tekstualne datoteke uspoređuje se sa sadržajem očekivane
+          izlazne datoteke.
+    \item Točnost, odnosno dobrota \engl{fitness} algoritama računa se
+          pomoću izraza \ref{eq:fitness}.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Mjere točnosti algoritama}
+\framesubtitle{Mjere točnosti algoritama za rastavljanje riječi (2)}
+\begin{itemize}
+    \item Točnost algoritama za rastavljanje riječi predstavlja točnost
+          sustava za određivanje strukture teksta.
+\end{itemize}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=\textwidth]{images/sustav-05.png}
+    \caption{Postupak dobivanja izlazne datoteke.}
+    \label{fig:sustav-05}
+\end{figure}
+\end{frame}
+
+\section{Rezultati i analiza}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Rezultati algoritama za određivanje linija (1)}
+\begin{table}[htb]
+\caption{Točnost algoritma za određivanje linija.}
+\label{tbl:result-01}
+\centering
+\begin{tabular}{lccccc} \hline
+& Min. & Sred. & Med. & Maks. & Udio s maks.\ toč. \\ \hline
+Računi & 0,82 & 0,99 & 1 & 1 & 0,57 \\
+Knjige & 0,67 & 0,98 & 1 & 1 & 0,64 \\ \hline
+\end{tabular}
+\end{table}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Rezultati algoritama za određivanje linija (2)}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=.8\textwidth]{images/result-01.png}
+    \caption{Graf točnosti algoritma za određivanje linija u sadržaju s računa
+    iz trgovine.
+    }
+    \label{fig:result-01}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Rezultati algoritama za određivanje linija (3)}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=.8\textwidth]{images/result-02.png}
+    \caption{Graf točnosti algoritma za određivanje linija u sadržaju iz knjiga.}
+    \label{fig:result-02}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Analiza algoritma za određivanje linija}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=\textwidth]{images/error-01.png}
+    \caption{Neispravna detekcija linija u računima zbog prevelike zakrivljenosti sadržaja.}
+    \label{fig:error-01}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Rezultati algoritama za rastavljanje riječi (1)}
+\begin{table}[htb]
+\caption{
+    Točnost algoritama za rastavljanje riječi u sadržaju s računa iz trgovine.
+}
+\label{tbl:result-02}
+\centering
+\begin{tabular}{lccccc} \hline
+& Min. & Sred. & Med. & Maks. & Udio s maks.\ toč. \\ \hline
+\emph{avgcharwidth} & 0,83 & 0,98 & 0,99 & 1 & 0,34 \\
+\emph{avgreldist} & 0,82 & 0,98 & 0,99 & 1 & 0,33 \\
+\emph{avgcenterdist} & 0,83 & 0,99 & 1 & 1 & 0,54 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htb]
+\caption{Točnost algoritama za rastavljanje riječi u sadržaju iz knjiga.}
+\label{tbl:result-03}
+\centering
+\begin{tabular}{lccccc} \hline
+& Min. & Sred. & Med. & Maks. & Udio s maks.\ toč. \\ \hline
+\emph{avgcharwidth} & 0,6 & 0,96 & 0,97 & 1 & 0,2 \\
+\emph{avgreldist} & 0,61 & 0,92 & 0,93 & 0,961436 & 0,6 \\
+\emph{avgcenterdist} & 0,59 & 0,93 & 0,95 & 1 & 0,02 \\ \hline
+\end{tabular}
+\end{table}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Rezultati algoritama za rastavljanje riječi (2)}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=.8\textwidth]{images/result-03.png}
+    \caption{
+        Graf točnosti algoritama za rastavljanje riječi u sadržaju s računa iz
+        trgovine.
+    }
+    \label{fig:result-03}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Rezultati algoritama za rastavljanje riječi (3)}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=.8\textwidth]{images/result-04.png}
+    \caption{
+        Graf točnosti algoritma za rastavljanje riječi u sadržaju iz knjiga.
+    }
+    \label{fig:result-04}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Rezultati i analiza}
+\framesubtitle{Analiza algoritama za rastavljanje riječi}
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=\textwidth]{images/error-02.png}
+    \caption{
+        Horizontalno preklapanje znakova.
+    }
+    \label{fig:error-02}
+\end{figure}
+\end{frame}
+
 \section{Zaključak}
+\begin{frame}
+\frametitle{Zaključak}
+\begin{itemize}
+    \item Rezultati su zadovoljavajući.
+    \item Analiza pokazuje kako postoji još prostora za poboljšanje.
+    \item U budućem radu preporuča se:
+    \begin{itemize}
+        \item sastavljanje novog skupa podataka i definiranje novih mjera točnosti i
+        \item automatizirano traženje optimalnih parametara.
+    \end{itemize}
+\end{itemize}
+\end{frame}
+
 
 \begin{frame}
 \frametitle{Literatura}

@@ -12,5 +12,5 @@
 \beamer@subsectionintoc {3}{1}{Algoritmi za odre\IeC {\dj }ivanje linija}{18}{0}{3}
 \beamer@subsectionintoc {3}{2}{Algoritmi za rastavljanje rije\IeC {\v c}i}{26}{0}{3}
 \beamer@sectionintoc {4}{Mjere to\IeC {\v c}nosti algoritama}{34}{0}{4}
-\beamer@sectionintoc {5}{Rezultati}{34}{0}{5}
-\beamer@sectionintoc {6}{Zaklju\IeC {\v c}ak}{34}{0}{6}
+\beamer@sectionintoc {5}{Rezultati i analiza}{38}{0}{5}
+\beamer@sectionintoc {6}{Zaklju\IeC {\v c}ak}{46}{0}{6}
