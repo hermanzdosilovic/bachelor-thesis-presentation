@@ -6,8 +6,9 @@
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
 \bibitem[Ltd.(2018)]{Microblink}
-Microblink Ltd., 2018.
-\newblock URL \url{https://microblink.com}.
+Microblink Ltd.
+\newblock Deep{OCR} {T}echnology, 2018.
+\newblock URL \url{https://microblink.com/technology}.
 \newblock Pristupano: 03.07.2018.
 
 \end{thebibliography}

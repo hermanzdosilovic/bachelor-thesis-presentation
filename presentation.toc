@@ -7,10 +7,10 @@
 \beamer@subsectionintoc {2}{1}{\IeC {\v Z}eljena funkcionalnost}{7}{0}{2}
 \beamer@subsectionintoc {2}{2}{Suradnja s OCR-sustavom}{8}{0}{2}
 \beamer@subsectionintoc {2}{3}{Skup podataka za ispitivanje}{9}{0}{2}
-\beamer@subsectionintoc {2}{4}{Kori\IeC {\v s}tenje skupa podataka za ispitivanje}{13}{0}{2}
-\beamer@sectionintoc {3}{Algoritmi za odre\IeC {\dj }ivanje strukture teksta}{13}{0}{3}
-\beamer@subsectionintoc {3}{1}{Algoritmi za odre\IeC {\dj }ivanje linija}{13}{0}{3}
-\beamer@subsectionintoc {3}{2}{Algoritmi za rastavljanje rije\IeC {\v c}i}{13}{0}{3}
-\beamer@sectionintoc {4}{Mjere to\IeC {\v c}nosti algoritama}{13}{0}{4}
-\beamer@sectionintoc {5}{Rezultati}{13}{0}{5}
-\beamer@sectionintoc {6}{Zaklju\IeC {\v c}ak}{13}{0}{6}
+\beamer@subsectionintoc {2}{4}{Kori\IeC {\v s}tenje skupa podataka za ispitivanje}{15}{0}{2}
+\beamer@sectionintoc {3}{Algoritmi za odre\IeC {\dj }ivanje strukture teksta}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Algoritmi za odre\IeC {\dj }ivanje linija}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Algoritmi za rastavljanje rije\IeC {\v c}i}{26}{0}{3}
+\beamer@sectionintoc {4}{Mjere to\IeC {\v c}nosti algoritama}{34}{0}{4}
+\beamer@sectionintoc {5}{Rezultati}{34}{0}{5}
+\beamer@sectionintoc {6}{Zaklju\IeC {\v c}ak}{34}{0}{6}
